@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "Dados – 4K Digital Gabriela Mota Goncalves",
   description:
     "Soluções Estratégicas em Promoção, Conteúdo e Capacitação. Atuamos de forma integrada na promoção de vendas, produção de conteúdos editoriais e desenvolvimento profissional.",
+  other: {
+    "facebook-domain-verification": "g17gqolqloguh22b8q76e55az7hhgr",
+  },
 };
 
 export default function RootLayout({
